@@ -11,3 +11,7 @@ get-pip.py
 *.h5
 *.tflite
 testy
+__pycache__
+test_names.txt
+train_names.txt
+training_output.txt
