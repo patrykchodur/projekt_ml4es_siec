@@ -1,0 +1,13 @@
+*_cut
+data
+.DS_Store
+chinatree
+fig
+judastree
+palm
+pine
+get-pip.py
+*tmp*
+*.h5
+*.tflite
+testy
